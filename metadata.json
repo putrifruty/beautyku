@@ -1,0 +1,7 @@
+{
+  "name": "Beauty Content Buddy",
+  "description": "Asisten AI personal untuk beauty content creator Indonesia membuat ide konten, melatih alur bicara di depan kamera, voice dump, dan mengatur jadwal konten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
